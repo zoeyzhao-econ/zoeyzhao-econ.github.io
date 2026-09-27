@@ -124,12 +124,12 @@ author_profile: true
 
 <div class="paper">
   <div class="paper-title">🌻 Culture, Gender, and the Response to Local Labor Demand</div>
-  <div class="paper-authors">with Yao Wang.</div>
+  <div class="paper-authors">with <a href="https://www.yaowang.info/">Yao Wang</a>.</div>
 </div>
 
 <div class="paper">
   <div class="paper-title">🌻 Remote Learning Strategies Are Used When Schools Are Closed</div>
-  <div class="paper-authors">with Sabrin Beg, Stephanie Bonds, <a href="https://u.osu.edu/fitzpatrick.110/">Anne Fitzpatrick</a>, and Adrienne Lucas.</div>
+  <div class="paper-authors">with <a href="https://sabrinbeg.com/">Sabrin Beg</a>, Stephanie Bonds, <a href="https://u.osu.edu/fitzpatrick.110/">Anne Fitzpatrick</a>, and <a href="https://lerner.udel.edu/faculty-staff-directory/adrienne-lucas/">Adrienne Lucas</a>.</div>
 </div>
 
 <div class="section-heading">Work in Progress</div>
