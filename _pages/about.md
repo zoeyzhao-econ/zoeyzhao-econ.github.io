@@ -61,7 +61,7 @@ Welcome! I am a third-year Ph.D. student in the Department of [Agricultural, Env
 
 <div class="news-item">
   <span class="news-date">Jul 2026</span>
-  <span class="news-content">🎤 Presented at the AAEA Annual Meeting, Kansas City, MO.</span>
+  <span class="news-content">🎤 Presented "<a href="/research/">Market Outcomes of Minimum Price Regulations: Evidence from California's Entry Into the Federal Milk Marketing Order</a>" at the AAEA Annual Meeting, Kansas City, MO.</span>
 </div>
 
 </div>

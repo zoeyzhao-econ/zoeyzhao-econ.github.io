@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
@@ -115,17 +115,17 @@ author_profile: true
 
 <div class="paper">
   <div class="paper-title">Market Outcomes of Minimum Price Regulations: Evidence from California's Entry Into the Federal Milk Marketing Order</div>
-  <div class="paper-authors">with Gabriel Lade.</div>
+  <div class="paper-authors">with <a href="https://gabe-lade.github.io/">Gabriel Lade</a>.</div>
 </div>
 
 <div class="paper">
   <div class="paper-title">Rate of Return Regulations and the Cost of the Clean Energy Transition</div>
-  <div class="paper-authors">with Gabriel Lade, Michael Nguyen, and Sariya Stowers.</div>
+  <div class="paper-authors">with <a href="https://gabe-lade.github.io/">Gabriel Lade</a>, Michael Nguyen, and Sariya Stowers.</div>
 </div>
 
 <div class="paper">
   <div class="paper-title">Pass-Through of Biofuel Demand to the Soybean Farm Gate</div>
-  <div class="paper-authors">with Gabriel Lade and Seungki Lee.</div>
+  <div class="paper-authors">with <a href="https://gabe-lade.github.io/">Gabriel Lade</a> and <a href="https://sites.google.com/view/seungkilee/home">Seungki Lee</a>.</div>
 </div>
 
 <div class="paper">

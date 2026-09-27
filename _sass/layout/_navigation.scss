@@ -179,7 +179,7 @@
 
   a {
     display: block;
-    margin: 0 1rem;
+    margin: 0 0.7rem;
     padding: 0.5rem 0;
     color: var(--global-masthead-link-color);
     text-decoration: none;
@@ -200,6 +200,10 @@
     color: var(--global-text-color);
     cursor: pointer;
     z-index: 100;
+
+    @media screen and (min-width: 768px) {
+      display: none;
+    }
   }
 
   .visible-links {
