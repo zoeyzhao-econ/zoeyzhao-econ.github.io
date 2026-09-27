@@ -122,7 +122,7 @@ author_profile: true
 
 <div class="paper">
   <div class="paper-title">🌸 Remote Learning Strategies Are Used When Schools Are Closed</div>
-  <div class="paper-authors">with <a href="https://sabrinbeg.com/">Sabrin Beg</a>, <a href="https://stephaniebonds.com/">Stephanie Bonds</a>, <a href="https://u.osu.edu/fitzpatrick.110/">Anne Fitzpatrick</a>, and <a href="https://lerner.udel.edu/faculty-staff-directory/adrienne-lucas/">Adrienne Lucas</a>.</div>
+  <div class="paper-authors">with <a href="https://sabrinbeg.com/">Sabrin Beg</a>, <a href="https://stephaniebonds.com/">Stephanie Bonds</a>, <a href="https://sites.google.com/site/fitzpatrickanne/home">Anne Fitzpatrick</a>, and <a href="https://lerner.udel.edu/faculty-staff-directory/adrienne-lucas/">Adrienne Lucas</a>.</div>
 </div>
 
 <div class="section-heading">Work in Progress</div>
