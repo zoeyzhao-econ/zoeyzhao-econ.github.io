@@ -48,6 +48,30 @@ author_profile: true
   width: 240px;
   border-radius: 4px;
   border: 1px solid #eee;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.paper-flex img:hover {
+  opacity: 0.9;
+}
+.lightbox-overlay {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.8);
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.lightbox-overlay.active {
+  display: flex;
+}
+.lightbox-overlay img {
+  max-width: 90vw;
+  max-height: 90vh;
+  border-radius: 6px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
 }
 .section-heading {
   font-family: "Playfair Display", Georgia, serif;
@@ -131,3 +155,16 @@ author_profile: true
   <div class="paper-authors">with <a href="https://xiaoyangye.github.io/">Xiaoyang Ye</a>, Qiuxiang Wu, and <a href="https://marsal.umich.edu/directory/faculty-staff/stephen-l-desjardins">Stephen DesJardins</a>.</div>
   <div style="margin-top: 0.3em; font-size: 0.9em; color: #666;">RCT ID: AEARCTR-0012304</div>
 </div>
+
+<div class="lightbox-overlay" id="lightbox" onclick="this.classList.remove('active')">
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script>
+document.querySelectorAll('.paper-flex img').forEach(function(img) {
+  img.addEventListener('click', function() {
+    document.getElementById('lightbox-img').src = this.src;
+    document.getElementById('lightbox').classList.add('active');
+  });
+});
+</script>
