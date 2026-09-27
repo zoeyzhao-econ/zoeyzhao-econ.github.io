@@ -89,7 +89,7 @@ author_profile: true
 <div class="paper">
   <div class="paper-flex">
     <div class="paper-text">
-      <div class="paper-title"><a href="https://www.sciencedirect.com/science/article/pii/S0272775726000774" target="_blank">Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses</a></div>
+      <div class="paper-title">🌻 <a href="https://www.sciencedirect.com/science/article/pii/S0272775726000774" target="_blank">Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses</a></div>
       <div class="paper-authors"><a href="https://sites.google.com/view/jiushengzhu">Jiusheng Zhu</a>, <a href="https://andyxinjiezhang.wixsite.com/myprofile">Xinjie Zhang</a>, <strong>Zoey Yu Zhao</strong>, <a href="https://xiaoyangye.github.io/">Xiaoyang Ye</a>.</div>
       <div class="paper-venue">Economics of Education Review, 2026.</div>
     </div>
@@ -106,7 +106,7 @@ author_profile: true
 <div class="paper">
   <div class="paper-flex">
     <div class="paper-text">
-      <div class="paper-title"><a href="https://www.sciencedirect.com/science/article/pii/S1049007824000058" target="_blank">The Long-term Influence of Education Resources Allocation on the Migration: Evidence from the China's Rural School Consolidation Policy</a></div>
+      <div class="paper-title">🌻 <a href="https://www.sciencedirect.com/science/article/pii/S1049007824000058" target="_blank">The Long-term Influence of Education Resources Allocation on the Migration: Evidence from the China's Rural School Consolidation Policy</a></div>
       <div class="paper-authors"><strong>Zoey Yu Zhao</strong>, Hui Du, Rui Li, Guangsu Zhou.</div>
       <div class="paper-venue">Journal of Asian Economics, 2024.</div>
     </div>
@@ -123,34 +123,34 @@ author_profile: true
 <div class="section-heading">Working Papers</div>
 
 <div class="paper">
-  <div class="paper-title">Culture, Gender, and the Response to Local Labor Demand</div>
+  <div class="paper-title">🌻 Culture, Gender, and the Response to Local Labor Demand</div>
   <div class="paper-authors">with Yao Wang.</div>
 </div>
 
 <div class="paper">
-  <div class="paper-title">Remote Learning Strategies Are Used When Schools Are Closed</div>
+  <div class="paper-title">🌻 Remote Learning Strategies Are Used When Schools Are Closed</div>
   <div class="paper-authors">with Sabrin Beg, Stephanie Bonds, <a href="https://u.osu.edu/fitzpatrick.110/">Anne Fitzpatrick</a>, and Adrienne Lucas.</div>
 </div>
 
 <div class="section-heading">Work in Progress</div>
 
 <div class="paper">
-  <div class="paper-title">Market Outcomes of Minimum Price Regulations: Evidence from California's Entry Into the Federal Milk Marketing Order</div>
+  <div class="paper-title">🌻 Market Outcomes of Minimum Price Regulations: Evidence from California's Entry Into the Federal Milk Marketing Order</div>
   <div class="paper-authors">with <a href="https://gabe-lade.github.io/">Gabriel Lade</a>.</div>
 </div>
 
 <div class="paper">
-  <div class="paper-title">Rate of Return Regulations and the Cost of the Clean Energy Transition</div>
+  <div class="paper-title">🌻 Rate of Return Regulations and the Cost of the Clean Energy Transition</div>
   <div class="paper-authors">with <a href="https://gabe-lade.github.io/">Gabriel Lade</a>, Michael Nguyen, and Sariya Stowers.</div>
 </div>
 
 <div class="paper">
-  <div class="paper-title">Pass-Through of Biofuel Demand to the Soybean Farm Gate</div>
+  <div class="paper-title">🌻 Pass-Through of Biofuel Demand to the Soybean Farm Gate</div>
   <div class="paper-authors">with <a href="https://gabe-lade.github.io/">Gabriel Lade</a> and <a href="https://sites.google.com/view/seungkilee/home">Seungki Lee</a>.</div>
 </div>
 
 <div class="paper">
-  <div class="paper-title">Demystifying College Costs Through Behavioral Nudges: Experimental Evidence from China</div>
+  <div class="paper-title">🌻 Demystifying College Costs Through Behavioral Nudges: Experimental Evidence from China</div>
   <div class="paper-authors">with <a href="https://xiaoyangye.github.io/">Xiaoyang Ye</a>, Qiuxiang Wu, and <a href="https://marsal.umich.edu/directory/faculty-staff/stephen-l-desjardins">Stephen DesJardins</a>.</div>
   <div style="margin-top: 0.3em; font-size: 0.9em; color: #666;">RCT ID: AEARCTR-0012304</div>
 </div>
