@@ -143,8 +143,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "/images/og-preview.jpg"
+og_description           : "Research, CV, and teaching. Ph.D. student in Applied Economics at The Ohio State University."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
