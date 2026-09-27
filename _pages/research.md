@@ -87,18 +87,6 @@ author_profile: true
   </details>
 </div>
 
-<div class="paper">
-  <div class="paper-title">The Influence of Farmers' Financial Literacy on Household's Poverty Vulnerability <a href="/files/papers/finance.pdf">[PDF (Chinese)]</a></div>
-  <div class="paper-authors"><strong>Zoey Yu Zhao</strong>, Jianjun Zhu.</div>
-  <div class="paper-venue">Xinjiang State Farms Economy, 2021.</div>
-</div>
-
-<div class="paper">
-  <div class="paper-title">Research on the Impact of Farmland Rights Confirmation upon Rural Labor to Migrant to Work <a href="/files/papers/migrate.pdf">[PDF (Chinese)]</a></div>
-  <div class="paper-authors"><strong>Zoey Yu Zhao</strong>, Jianjun Zhu.</div>
-  <div class="paper-venue">Rural Economy and Technology, 2019.</div>
-</div>
-
 <div class="section-heading">Working Papers</div>
 
 <div class="paper">
@@ -129,18 +117,7 @@ author_profile: true
 </div>
 
 <div class="paper">
-  <div class="paper-flex">
-    <div class="paper-text">
-      <div class="paper-title">Demystifying College Costs Through Behavioral Nudges: Experimental Evidence from China</div>
-      <div class="paper-authors">with <a href="https://xiaoyangye.github.io/">Xiaoyang Ye</a>, Qiuxiang Wu, and <a href="https://marsal.umich.edu/directory/faculty-staff/stephen-l-desjardins">Stephen DesJardins</a>.</div>
-      <div style="margin-top: 0.3em; font-size: 0.9em; color: #666;">RCT ID: AEARCTR-0012304</div>
-    </div>
-    <img src="/images/research/ml_shap.png" alt="SHAP analysis">
-  </div>
-  <details style="margin-top: 0.5em;">
-    <summary>Abstract</summary>
-    <p style="text-align: justify; margin-top: 0.5em; color: #555;">
-    There has been a global trend of rapid college tuition increases, which often come with diverse financial aid packages. How (low-income) students behaviorally respond to these changes in their college choices remains as an open question. In a preregistered field experiment with 5,000 low-income college applicants in China, we examine six major behavioral barriers that may prevent students from correctly understanding the cost-benefit tradeoff of college attendance and making optimal college choices. Those barriers include biased belief, information friction, administrative burden, framing, overconfidence, and social image.
-    </p>
-  </details>
+  <div class="paper-title">Demystifying College Costs Through Behavioral Nudges: Experimental Evidence from China</div>
+  <div class="paper-authors">with <a href="https://xiaoyangye.github.io/">Xiaoyang Ye</a>, Qiuxiang Wu, and <a href="https://marsal.umich.edu/directory/faculty-staff/stephen-l-desjardins">Stephen DesJardins</a>.</div>
+  <div style="margin-top: 0.3em; font-size: 0.9em; color: #666;">RCT ID: AEARCTR-0012304</div>
 </div>

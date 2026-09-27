@@ -27,6 +27,9 @@
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
+    margin-top: -90px;
+    position: relative;
+    z-index: 10;
 
     &:hover {
       opacity: 1;
