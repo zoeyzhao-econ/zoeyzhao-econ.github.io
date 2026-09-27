@@ -74,9 +74,8 @@ author_profile: true
   box-shadow: 0 4px 20px rgba(0,0,0,0.5);
 }
 .section-heading {
-  font-family: "Playfair Display", Georgia, serif;
-  font-size: 1.4em;
-  font-weight: 600;
+  font-size: 1.3em;
+  font-weight: bold;
   color: #2d3436;
   margin-top: 1.5em;
   margin-bottom: 0.8em;
