@@ -78,6 +78,9 @@ author_profile: true
   font-weight: bold;
   color: #2d3436;
   margin-top: 1.5em;
+}
+.section-heading:first-child {
+  margin-top: 0;
   margin-bottom: 0.8em;
   padding-bottom: 0.3em;
   border-bottom: 2px solid #2a7ae2;
