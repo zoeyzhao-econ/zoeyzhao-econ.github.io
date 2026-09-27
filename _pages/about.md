@@ -58,7 +58,7 @@ Here is my [CV](/files/Zoey_Yu_Zhao_CV.pdf).
 
 <div class="news-item">
   <span class="news-date">Sep 2026</span>
-  <span class="news-content">📄 "<a href="/files/papers/eyeglasses.pdf">Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses</a>" accepted at <em>Economics of Education Review</em>.</span>
+  <span class="news-content">📄 "<a href="https://www.sciencedirect.com/science/article/pii/S0272775726000774">Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses</a>" accepted at <em>Economics of Education Review</em>.</span>
 </div>
 
 <div class="news-item">
