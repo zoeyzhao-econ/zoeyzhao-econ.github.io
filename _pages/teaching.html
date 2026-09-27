@@ -5,8 +5,36 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<style>
+.teaching-school {
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #bb0000;
+  margin-top: 1.5em;
+  margin-bottom: 0.3em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid #bb0000;
+}
+.teaching-course {
+  margin: 1em 0 0.5em 0;
+}
+.teaching-course-name {
+  font-weight: bold;
+  font-size: 1.05em;
+}
+.teaching-detail {
+  color: #555;
+  margin-top: 0.3em;
+  line-height: 1.6;
+}
+</style>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="teaching-school">The Ohio State University</div>
+
+<div class="teaching-course">
+  <span class="teaching-course-name">AEDE 6130 &ndash; Advanced Quantitative Methods III</span>
+  <div class="teaching-detail">
+    Lab Instructor for Prof. Anne Fitzpatrick &bull; Spring 2026<br>
+    Teaching evaluation: 4.83/5.0
+  </div>
+</div>
