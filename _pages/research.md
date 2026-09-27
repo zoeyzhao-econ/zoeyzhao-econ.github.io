@@ -90,7 +90,7 @@ author_profile: true
   <div class="paper-flex">
     <div class="paper-text">
       <div class="paper-title">🌻 <a href="https://www.sciencedirect.com/science/article/pii/S0272775726000774" target="_blank">Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses</a></div>
-      <div class="paper-authors"><a href="https://sites.google.com/view/jiushengzhu">Jiusheng Zhu</a>, <a href="https://andyxinjiezhang.wixsite.com/myprofile">Xinjie Zhang</a>, <strong>Zoey Yu Zhao</strong>, <a href="https://xiaoyangye.github.io/">Xiaoyang Ye</a>.</div>
+      <div class="paper-authors"><a href="https://sites.google.com/view/jiushengzhu">Jiusheng Zhu</a>, <a href="https://sites.google.com/view/andyxinjiezhang">Xinjie Zhang</a>, <strong>Zoey Yu Zhao</strong>, <a href="https://xiaoyangye.github.io/">Xiaoyang Ye</a>.</div>
       <div class="paper-venue">Economics of Education Review, 2026.</div>
     </div>
     <img src="/images/eyeglasses_fig3.png" alt="Heterogeneous treatment effects">
