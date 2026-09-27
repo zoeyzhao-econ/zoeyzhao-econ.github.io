@@ -90,7 +90,7 @@ author_profile: true
 <div class="section-heading">Publications</div>
 
 <div class="paper">
-      <div class="paper-title">🌻 <a href="https://www.sciencedirect.com/science/article/pii/S0272775726000774" target="_blank">Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses</a></div>
+      <div class="paper-title">🌻 Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses <a href="https://www.sciencedirect.com/science/article/pii/S0272775726000774" target="_blank" style="font-size:0.85em; font-weight:normal; color:#2a7ae2;">[Paper]</a></div>
       <div class="paper-authors"><a href="https://sites.google.com/view/jiushengzhu">Jiusheng Zhu</a>, <a href="https://sites.google.com/view/andyxinjiezhang">Xinjie Zhang</a>, <strong>Zoey Yu Zhao</strong>, <a href="https://xiaoyangye.github.io/">Xiaoyang Ye</a>.</div>
       <div class="paper-venue">Economics of Education Review, 2026.</div>
   <details style="margin-top: 0.5em;">
@@ -102,7 +102,7 @@ author_profile: true
 </div>
 
 <div class="paper">
-      <div class="paper-title">🌻 <a href="https://www.sciencedirect.com/science/article/pii/S1049007824000058" target="_blank">The Long-term Influence of Education Resources Allocation on the Migration: Evidence from the China's Rural School Consolidation Policy</a></div>
+      <div class="paper-title">🌻 The Long-term Influence of Education Resources Allocation on the Migration: Evidence from the China's Rural School Consolidation Policy <a href="https://www.sciencedirect.com/science/article/pii/S1049007824000058" target="_blank" style="font-size:0.85em; font-weight:normal; color:#2a7ae2;">[Paper]</a></div>
       <div class="paper-authors"><strong>Zoey Yu Zhao</strong>, Hui Du, Rui Li, Guangsu Zhou.</div>
       <div class="paper-venue">Journal of Asian Economics, 2024.</div>
   <details style="margin-top: 0.5em;">
