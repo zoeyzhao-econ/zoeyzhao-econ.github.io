@@ -78,19 +78,19 @@ author_profile: true
   font-weight: bold;
   color: #2d3436;
   margin-top: 1.5em;
-}
-.section-heading:first-child {
-  margin-top: 0;
   margin-bottom: 0.8em;
   padding-bottom: 0.3em;
   border-bottom: 2px solid #2a7ae2;
+}
+.section-heading:first-child {
+  margin-top: 0;
 }
 </style>
 
 <div class="section-heading">Publications</div>
 
 <div class="paper">
-      <div class="paper-title">🌻 Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses <a href="https://www.sciencedirect.com/science/article/pii/S0272775726000774" target="_blank" style="font-size:0.85em; font-weight:normal; color:#2a7ae2;">[Paper]</a></div>
+      <div class="paper-title">🌻 Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses <a href="/files/papers/eyeglasses.pdf" target="_blank" style="font-size:0.85em; font-weight:normal; color:#2a7ae2;">[PDF]</a></div>
       <div class="paper-authors"><a href="https://sites.google.com/view/jiushengzhu">Jiusheng Zhu</a>, <a href="https://sites.google.com/view/andyxinjiezhang">Xinjie Zhang</a>, <strong>Zoey Yu Zhao</strong>, <a href="https://xiaoyangye.github.io/">Xiaoyang Ye</a>.</div>
       <div class="paper-venue">Economics of Education Review, 2026.</div>
   <details style="margin-top: 0.5em;">
@@ -102,7 +102,7 @@ author_profile: true
 </div>
 
 <div class="paper">
-      <div class="paper-title">🌻 The Long-term Influence of Education Resources Allocation on the Migration: Evidence from the China's Rural School Consolidation Policy <a href="https://www.sciencedirect.com/science/article/pii/S1049007824000058" target="_blank" style="font-size:0.85em; font-weight:normal; color:#2a7ae2;">[Paper]</a></div>
+      <div class="paper-title">🌻 The Long-term Influence of Education Resources Allocation on the Migration: Evidence from the China's Rural School Consolidation Policy <a href="/files/papers/school_consolidation.pdf" target="_blank" style="font-size:0.85em; font-weight:normal; color:#2a7ae2;">[PDF]</a></div>
       <div class="paper-authors"><strong>Zoey Yu Zhao</strong>, Hui Du, Rui Li, Guangsu Zhou.</div>
       <div class="paper-venue">Journal of Asian Economics, 2024.</div>
   <details style="margin-top: 0.5em;">
@@ -116,34 +116,34 @@ author_profile: true
 <div class="section-heading">Working Papers</div>
 
 <div class="paper">
-  <div class="paper-title">🌻 Culture, Gender, and the Response to Local Labor Demand</div>
+  <div class="paper-title">🌸 Culture, Gender, and the Response to Local Labor Demand</div>
   <div class="paper-authors">with <a href="https://www.yaowang.info/">Yao Wang</a>.</div>
 </div>
 
 <div class="paper">
-  <div class="paper-title">🌻 Remote Learning Strategies Are Used When Schools Are Closed</div>
+  <div class="paper-title">🌸 Remote Learning Strategies Are Used When Schools Are Closed</div>
   <div class="paper-authors">with <a href="https://sabrinbeg.com/">Sabrin Beg</a>, <a href="https://stephaniebonds.com/">Stephanie Bonds</a>, <a href="https://u.osu.edu/fitzpatrick.110/">Anne Fitzpatrick</a>, and <a href="https://lerner.udel.edu/faculty-staff-directory/adrienne-lucas/">Adrienne Lucas</a>.</div>
 </div>
 
 <div class="section-heading">Work in Progress</div>
 
 <div class="paper">
-  <div class="paper-title">🌻 Market Outcomes of Minimum Price Regulations: Evidence from California's Entry Into the Federal Milk Marketing Order</div>
+  <div class="paper-title">🌱 Market Outcomes of Minimum Price Regulations: Evidence from California's Entry Into the Federal Milk Marketing Order</div>
   <div class="paper-authors">with <a href="https://gabe-lade.github.io/">Gabriel Lade</a>.</div>
 </div>
 
 <div class="paper">
-  <div class="paper-title">🌻 Rate of Return Regulations and the Cost of the Clean Energy Transition</div>
+  <div class="paper-title">🌱 Rate of Return Regulations and the Cost of the Clean Energy Transition</div>
   <div class="paper-authors">with <a href="https://gabe-lade.github.io/">Gabriel Lade</a>, Michael Nguyen, and Sariya Stowers.</div>
 </div>
 
 <div class="paper">
-  <div class="paper-title">🌻 Pass-Through of Biofuel Demand to the Soybean Farm Gate</div>
+  <div class="paper-title">🌱 Pass-Through of Biofuel Demand to the Soybean Farm Gate</div>
   <div class="paper-authors">with <a href="https://gabe-lade.github.io/">Gabriel Lade</a> and <a href="https://sites.google.com/view/seungkilee/home">Seungki Lee</a>.</div>
 </div>
 
 <div class="paper">
-  <div class="paper-title">🌻 Demystifying College Costs Through Behavioral Nudges: Experimental Evidence from China</div>
+  <div class="paper-title">🌱 Demystifying College Costs Through Behavioral Nudges: Experimental Evidence from China</div>
   <div class="paper-authors">with <a href="https://xiaoyangye.github.io/">Xiaoyang Ye</a>, Qiuxiang Wu, and <a href="https://marsal.umich.edu/directory/faculty-staff/stephen-l-desjardins">Stephen DesJardins</a>.</div>
   <div style="margin-top: 0.3em; font-size: 0.9em; color: #666;">RCT ID: AEARCTR-0012304</div>
 </div>
