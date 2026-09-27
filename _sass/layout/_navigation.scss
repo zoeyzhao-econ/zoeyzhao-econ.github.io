@@ -197,15 +197,23 @@
     display: flex;
     align-items: center;
     flex-wrap: wrap;
+    justify-content: center;
     width: 100%;
+
+    @media screen and (min-width: 768px) {
+      justify-content: flex-start;
+    }
 
     li {
       vertical-align: middle;
 
       &:first-child {
         font-weight: bold;
-        text-wrap: wrap;
         margin-right: auto;
+
+        @media screen and (max-width: 767px) {
+          display: none;
+        }
 
         a {
           margin-left: 0;
