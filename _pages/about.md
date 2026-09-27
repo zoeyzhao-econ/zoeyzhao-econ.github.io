@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Welcome"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I am a third-year Ph.D. student in the Department of [Agricultural, Environmental, and Development Economics (AEDE)](https://aede.osu.edu/) at The Ohio State University. My research interests include Industrial Organization, Agricultural Economics, and Environmental and Energy Economics. Here is my [CV](/files/Zoey_Yu_Zhao_CV.pdf).
+Welcome! I am a third-year Ph.D. student in the Department of [Agricultural, Environmental, and Development Economics (AEDE)](https://aede.osu.edu/) at The Ohio State University. My research interests include Industrial Organization, Agricultural Economics, and Environmental and Energy Economics.
+
+Here is my [CV](/files/Zoey_Yu_Zhao_CV.pdf).
 
 ## Recent News
 
