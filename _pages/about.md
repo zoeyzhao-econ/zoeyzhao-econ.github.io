@@ -14,15 +14,28 @@ Here is my [CV](/files/Zoey_Yu_Zhao_CV.pdf).
 ## Recent News
 
 <style>
+.timeline-box {
+  max-height: 280px;
+  overflow-y: auto;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 16px 20px 16px 48px;
+  background: #f5f3f0;
+}
+.timeline-box::-webkit-scrollbar {
+  width: 6px;
+}
+.timeline-box::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 3px;
+}
 .timeline {
   position: relative;
-  padding-left: 32px;
-  margin-top: 1em;
 }
 .timeline::before {
   content: "";
   position: absolute;
-  left: 10px;
+  left: -20px;
   top: 8px;
   bottom: 8px;
   width: 2px;
@@ -44,7 +57,7 @@ Here is my [CV](/files/Zoey_Yu_Zhao_CV.pdf).
   height: 14px;
   border-radius: 50%;
   background: #2a7ae2;
-  border: 2.5px solid #fff;
+  border: 2.5px solid #f5f3f0;
   box-shadow: 0 0 0 2px #c8d6e5;
 }
 .timeline-date {
@@ -59,6 +72,7 @@ Here is my [CV](/files/Zoey_Yu_Zhao_CV.pdf).
 }
 </style>
 
+<div class="timeline-box">
 <div class="timeline">
 
 <div class="timeline-item">
@@ -76,7 +90,8 @@ Here is my [CV](/files/Zoey_Yu_Zhao_CV.pdf).
 <div class="timeline-item">
   <div class="timeline-dot"></div>
   <div class="timeline-date">Jul 2026</div>
-  <div class="timeline-text">💫 Presented "<a href="/research/">Market Outcomes of Minimum Price Regulations: Evidence from California's Entry Into the Federal Milk Marketing Order</a>" at the AAEA Annual Meeting, Kansas City, MO.</div>
+  <div class="timeline-text">🎙️ Presented "<a href="/research/">Market Outcomes of Minimum Price Regulations: Evidence from California's Entry Into the Federal Milk Marketing Order</a>" at the AAEA Annual Meeting, Kansas City, MO.</div>
 </div>
 
+</div>
 </div>
