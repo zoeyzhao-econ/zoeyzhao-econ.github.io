@@ -20,7 +20,7 @@ Here is my [CV](/files/Zoey_Yu_Zhao_CV.pdf).
   border: 1px solid #e0e0e0;
   border-radius: 8px;
   padding: 16px 20px;
-  background: #fafafa;
+  background: #f5f3f0;
 }
 .news-box::-webkit-scrollbar {
   width: 6px;
