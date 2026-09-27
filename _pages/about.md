@@ -77,7 +77,7 @@ Here is my [CV](/files/Zoey_Yu_Zhao_CV.pdf).
 
 <div class="timeline-item">
   <div class="timeline-dot"></div>
-  <div class="timeline-date">Nov 2026</div>
+  <div class="timeline-date">Sep 2026</div>
   <div class="timeline-text">✨ Paper "<a href="/research/">Culture, Gender, and the Response to Local Labor Demand</a>" accepted at <a href="https://cidercornell.github.io/neudc2026/">NEUDC 2026</a>, Cornell University.</div>
 </div>
 
