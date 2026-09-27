@@ -18,6 +18,15 @@ author_profile: true
   font-weight: bold;
   font-size: 1.05em;
 }
+.paper-title a {
+  color: #2d3436;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+.paper-title a:hover {
+  border-bottom-color: #2a7ae2;
+}
 .paper-authors {
   margin-top: 0.3em;
   color: #444;
@@ -41,9 +50,10 @@ author_profile: true
   border: 1px solid #eee;
 }
 .section-heading {
-  font-size: 1.3em;
-  font-weight: bold;
-  color: #2a7ae2;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.4em;
+  font-weight: 600;
+  color: #2d3436;
   margin-top: 1.5em;
   margin-bottom: 0.8em;
   padding-bottom: 0.3em;
@@ -56,7 +66,7 @@ author_profile: true
 <div class="paper">
   <div class="paper-flex">
     <div class="paper-text">
-      <div class="paper-title">Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses <a href="/files/papers/eyeglasses.pdf">[PDF]</a></div>
+      <div class="paper-title"><a href="https://www.sciencedirect.com/science/article/pii/S0272775726000774" target="_blank">Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses</a></div>
       <div class="paper-authors"><a href="https://sites.google.com/view/jiushengzhu">Jiusheng Zhu</a>, <a href="https://andyxinjiezhang.wixsite.com/myprofile">Xinjie Zhang</a>, <strong>Zoey Yu Zhao</strong>, <a href="https://xiaoyangye.github.io/">Xiaoyang Ye</a>.</div>
       <div class="paper-venue">Economics of Education Review, 2026.</div>
     </div>
@@ -73,7 +83,7 @@ author_profile: true
 <div class="paper">
   <div class="paper-flex">
     <div class="paper-text">
-      <div class="paper-title">The Long-term Influence of Education Resources Allocation on the Migration: Evidence from the China's Rural School Consolidation Policy <a href="/files/papers/school_consolidation.pdf">[PDF]</a></div>
+      <div class="paper-title"><a href="https://www.sciencedirect.com/science/article/pii/S1049007824000058" target="_blank">The Long-term Influence of Education Resources Allocation on the Migration: Evidence from the China's Rural School Consolidation Policy</a></div>
       <div class="paper-authors"><strong>Zoey Yu Zhao</strong>, Hui Du, Rui Li, Guangsu Zhou.</div>
       <div class="paper-venue">Journal of Asian Economics, 2024.</div>
     </div>
