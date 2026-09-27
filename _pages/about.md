@@ -78,13 +78,13 @@ Here is my [CV](/files/Zoey_Yu_Zhao_CV.pdf).
 <div class="timeline-item">
   <div class="timeline-dot"></div>
   <div class="timeline-date">Nov 2026</div>
-  <div class="timeline-text">🌟 Paper "<a href="/research/">Culture, Gender, and the Response to Local Labor Demand</a>" accepted at <a href="https://cidercornell.github.io/neudc2026/">NEUDC 2026</a>, Cornell University.</div>
+  <div class="timeline-text">✨ Paper "<a href="/research/">Culture, Gender, and the Response to Local Labor Demand</a>" accepted at <a href="https://cidercornell.github.io/neudc2026/">NEUDC 2026</a>, Cornell University.</div>
 </div>
 
 <div class="timeline-item">
   <div class="timeline-dot"></div>
   <div class="timeline-date">Sep 2026</div>
-  <div class="timeline-text">✨ "<a href="https://www.sciencedirect.com/science/article/pii/S0272775726000774">Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses</a>" accepted at <em>Economics of Education Review</em>.</div>
+  <div class="timeline-text">🌟 "<a href="https://www.sciencedirect.com/science/article/pii/S0272775726000774">Information for Vision: Experimental Evidence on Nudging Low-income Students to Wear Eyeglasses</a>" accepted at <em>Economics of Education Review</em>.</div>
 </div>
 
 <div class="timeline-item">
