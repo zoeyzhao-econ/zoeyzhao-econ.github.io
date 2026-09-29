@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zoey Yu Zhao"
+title                    : "Zoey Yu Zhao | 赵雨"
 title_separator          : "-"
 name                     : &name "Zoey Yu Zhao"
 description              : &description "Personal website of Zoey Yu Zhao, Ph.D. student in Applied Economics at The Ohio State University"
